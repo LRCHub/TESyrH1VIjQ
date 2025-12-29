@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "HONEY BEES",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-29T13:35:03.480427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honey Bees",
+      "artist": "SahBabii",
+      "has_synced": true,
+      "path": "select/01_Honey_Bees_SahBabii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Last of the Honey Bees",
+      "artist": "Sam Burchfield",
+      "has_synced": true,
+      "path": "select/02_The_Last_of_the_Honey_Bees_Sam_Burchfield.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SahBabii - Honey Bees",
+      "artist": "SahBabii",
+      "has_synced": true,
+      "path": "select/03_SahBabii_-_Honey_Bees_SahBabii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HONEY BEES",
+      "artist": "Hachi",
+      "has_synced": true,
+      "path": "select/04_HONEY_BEES_Hachi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HONEY BEES",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/05_HONEY_BEES_HACHI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HONEY BEES",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_HONEY_BEES_HACHI.txt"
+    }
+  ]
+}
